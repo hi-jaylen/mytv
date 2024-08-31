@@ -1,0 +1,14 @@
+测试组1,#genre#
+第一条无$,https://0472.org/hls/cgtn.m3u8#https://0472.org/hls/cgtn.m3u8$高清1#https://0472.org/hls/cgtn.m3u8$高清2
+第一条有$,https://0472.org/hls/cgtn.m3u8$高清1#https://0472.org/hls/cgtn.m3u8$高清2#https://0472.org/hls/cgtn.m3u8$高清3
+全无$,https://0472.org/hls/cgtn.m3u8#https://0472.org/hls/cgtn.m3u8#https://0472.org/hls/cgtn.m3u8
+
+测试组2,#genre#
+测试链接,https://0472.org/hls/cgtn.m3u8
+测试链接,https://0472.org/hls/cgtn.m3u8
+测试链接,https://0472.org/hls/cgtn.m3u8
+
+测试组2,#genre#
+测试链接,https://0472.org/hls/cgtn.m3u8$高清1
+测试链接,https://0472.org/hls/cgtn.m3u8$高清2
+测试链接,https://0472.org/hls/cgtn.m3u8$高清3
