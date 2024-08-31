@@ -5,10 +5,10 @@
 
 测试组2,#genre#
 测试链接,https://0472.org/hls/cgtn.m3u8
-测试链接,https://0472.org/hls/cgtn.m3u8
+测试链接,https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4
 测试链接,https://0472.org/hls/cgtn.m3u8
 
 测试组3,#genre#
 测试链接,https://0472.org/hls/cgtn.m3u8$高清1
-测试链接,https://0472.org/hls/cgtn.m3u8$高清2
+测试链接,https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4$高清2
 测试链接,https://0472.org/hls/cgtn.m3u8$高清3
