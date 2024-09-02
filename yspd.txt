@@ -1,4 +1,4 @@
-央视频道
+央视频道,#genre#
 CCTV1-综合,http://119.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://119.129.172.164:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://119.129.172.164:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
