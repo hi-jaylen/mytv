@@ -1,9 +1,15 @@
 央视,#genre#
-CCTV1,http://12.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://11.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 1,http://12.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://13.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://14.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1综合,http://15.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1-综合,http://16.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 1综合,http://15.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 1 综合,http://16.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 1-综合,http://17.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 1综合,http://18.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1综合,http://19.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1 综合,http://20.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://21.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视,#genre#
 浙江卫视,http://119.129.172.164:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
