@@ -10,6 +10,7 @@ TVB,http://11.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&aut
 TVB翡翠,http://12.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 TVB翡翠台,http://13.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://14.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+TVB 翡翠台,http://13.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视,#genre#
 浙江卫视,http://119.129.172.164:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
