@@ -6,6 +6,11 @@ CCTV-1综合,http://14.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playl
 CCTV-1 综合,http://15.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1-综合,http://16.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CHC,http://11.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://12.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC-动作电影,http://13.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC 动作电影,http://14.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+
 卫视,#genre#
 浙江卫视,http://119.129.172.164:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://119.129.172.164:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
