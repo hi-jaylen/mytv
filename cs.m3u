@@ -9,14 +9,14 @@ https://0472.org/hls/cgtn.m3u8#https://liuliuliu.tv/api/channels/1997/stream#htt
 
 #EXTINF:-1 group-title="测试组2",测试1
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 group-title="测试组2",测试2
+#EXTINF:-1 group-title="测试组2",测试1
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 group-title="测试组2",测试3
+#EXTINF:-1 group-title="测试组2",测试1
 https://0472.org/hls/cgtn.m3u8
 
-#EXTINF:-1 group-title="测试组3",测试1-1
+#EXTINF:-1 group-title="测试组3",测试2
 https://0472.org/hls/cgtn.m3u8$高清1线
-#EXTINF:-1 group-title="测试组3",测试1-2
+#EXTINF:-1 group-title="测试组3",测试2
 https://0472.org/hls/cgtn.m3u8$高清2线
-#EXTINF:-1 group-title="测试组3",测试1-3
+#EXTINF:-1 group-title="测试组3",测试2
 https://0472.org/hls/cgtn.m3u8$高清3线
