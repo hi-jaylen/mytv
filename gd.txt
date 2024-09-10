@@ -5,6 +5,7 @@ CCTV1综合,http://13.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playli
 CCTV-1综合,http://14.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1 综合,http://15.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1-综合,http://16.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV01,http://16.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 TVB,http://11.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 TVB翡翠,http://12.129.172.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
