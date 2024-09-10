@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="组1",1无
+https://0472.org/hls/cgtn.m3u8#https://liuliuliu.tv/api/channels/1997/stream$高清1线#https://liuliuliu.tv/api/channels/2004/stream$高清2线
+#EXTINF:-1 group-title="组1",1有
+https://0472.org/hls/cgtn.m3u8$高清1线#https://liuliuliu.tv/api/channels/1997/stream#https://liuliuliu.tv/api/channels/2004/stream
+#EXTINF:-1 group-title="组1",3全有
+https://0472.org/hls/cgtn.m3u8$高清1线#https://liuliuliu.tv/api/channels/1997/stream$高清2线#https://liuliuliu.tv/api/channels/2004/stream$高清3线
+#EXTINF:-1 group-title="组1",3全无
+https://0472.org/hls/cgtn.m3u8#https://liuliuliu.tv/api/channels/1997/stream#https://liuliuliu.tv/api/channels/2004/stream
+
+#EXTINF:-1 group-title="组2",2
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 group-title="组2",2
+https://liuliuliu.tv/api/channels/1997/stream
+#EXTINF:-1 group-title="组2",2
+https://liuliuliu.tv/api/channels/2004/stream
+
+#EXTINF:-1 group-title="组3",3
+https://0472.org/hls/cgtn.m3u8$高清1线
+#EXTINF:-1 group-title="组3",3
+https://0472.org/hls/cgtn.m3u8$高清2线
+#EXTINF:-1 group-title="组3",3
+https://0472.org/hls/cgtn.m3u8$高清3线
